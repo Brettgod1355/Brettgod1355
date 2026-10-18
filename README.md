@@ -14,7 +14,7 @@ An all-in-one salvaging plugin, whether you're fully AFK or working the hooks yo
 - Boxes on the water showing where to park in a double spot
 - Inventory boxes for what to keep, deposit, alch or drop, and your next step on deck lit up
 
-[Plugin Hub page](https://runelite.net/plugin-hub/show/cargo-hold-alert) · [See it in action](https://github.com/Brettgod1355/AFK-Shipwrecks/wiki/Gallery) · [Source and issues](https://github.com/Brettgod1355/AFK-Shipwrecks)
+[Plugin Hub page](https://runelite.net/plugin-hub/show/cargo-hold-alert) · [See it in action](https://github.com/Brettgod1355/AFK-Shipwrecks/wiki/Gallery) · [GitHub Repo](https://github.com/Brettgod1355/AFK-Shipwrecks)
 
 ## Sidebar Favorites
 
@@ -24,7 +24,7 @@ Your favorite panels. Your order. Your shortcuts.
 - Open one with a click or your own hotkey
 - A gold star on the sidebar takes you back to your list
 
-[Plugin Hub page](https://runelite.net/plugin-hub/show/sidebar-favorites) · [Source and issues](https://github.com/Brettgod1355/Sidebar-Favorites)
+[Plugin Hub page](https://runelite.net/plugin-hub/show/sidebar-favorites) · [GitHub Repo](https://github.com/Brettgod1355/Sidebar-Favorites)
 
 ## Contact
 
