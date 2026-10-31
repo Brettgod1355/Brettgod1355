@@ -3,6 +3,22 @@
 RuneLite plugins for Old School RuneScape. To install one, open RuneLite, click the Plugin Hub
 (plug icon), search the name and click Install.
 
+## [Advanced Map](https://github.com/Brettgod1355/Advanced-Map)
+
+[![Advanced Map installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27advanced-map%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
+
+A full-screen world map drawn from the game's own data, with smooth pan and zoom, a fuzzy search and icons you can
+point at for their details.
+
+<img src="https://raw.githubusercontent.com/Brettgod1355/Advanced-Map/main/docs/images/hero.webp" width="560" alt="The whole world on Advanced Map, maximized over the game">
+
+- Always current: drawn from the map data your client already has, so a game update shows at once
+- Over the game, filling the game view, or popped out into a window of its own for a second screen
+- Find anything: places, shops, items, monsters, fishing spots and fairy rings, nearest to you first
+- Point at a dungeon entrance for a small map of where you come out and every monster inside
+
+[Plugin Hub page](https://runelite.net/plugin-hub/show/advanced-map)
+
 ## [AFK Shipwrecks](https://github.com/Brettgod1355/AFK-Shipwrecks)
 
 [![AFK Shipwrecks installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27cargo-hold-alert%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
