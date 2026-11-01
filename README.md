@@ -3,7 +3,7 @@
 RuneLite plugins for Old School RuneScape. To install one, open RuneLite, click the Plugin Hub
 (plug icon), search the name and click Install.
 
-## AFK Shipwrecks
+## [AFK Shipwrecks](https://github.com/Brettgod1355/AFK-Shipwrecks)
 
 [![AFK Shipwrecks installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27cargo-hold-alert%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
 
@@ -16,9 +16,9 @@ An all-in-one salvaging plugin, whether you're fully AFK or working the hooks yo
 - Boxes on the water showing where to park in a double spot
 - Inventory boxes for what to keep, deposit, alch or drop, and your next step on deck lit up
 
-[Plugin Hub page](https://runelite.net/plugin-hub/show/cargo-hold-alert) · [See it in action](https://github.com/Brettgod1355/AFK-Shipwrecks/wiki/Gallery) · [GitHub Repo](https://github.com/Brettgod1355/AFK-Shipwrecks)
+[Plugin Hub page](https://runelite.net/plugin-hub/show/cargo-hold-alert) · [See it in action](https://github.com/Brettgod1355/AFK-Shipwrecks/wiki/Gallery)
 
-## Sidebar Favorites
+## [Sidebar Favorites](https://github.com/Brettgod1355/Sidebar-Favorites)
 
 [![Sidebar Favorites installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27sidebar-favorites%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
 
@@ -28,7 +28,7 @@ Your favorite panels. Your order. Your shortcuts.
 - Open one with a click or your own hotkey
 - A gold star on the sidebar takes you back to your list
 
-[Plugin Hub page](https://runelite.net/plugin-hub/show/sidebar-favorites) · [GitHub Repo](https://github.com/Brettgod1355/Sidebar-Favorites)
+[Plugin Hub page](https://runelite.net/plugin-hub/show/sidebar-favorites)
 
 ## Contact
 
