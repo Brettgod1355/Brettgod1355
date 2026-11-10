@@ -5,7 +5,7 @@ RuneLite plugins for Old School RuneScape. To install one, open RuneLite, click 
 
 ## [Advanced Map](https://github.com/Brettgod1355/Advanced-Map)
 
-[![Advanced Map installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27advanced-map%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
+[![Advanced Map installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Fbadges.json&query=%24.counts%5B%27advanced-map%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
 
 A full-screen world map drawn from the game's own data, with smooth pan and zoom, a fuzzy search and icons you can
 point at for their details.
@@ -21,7 +21,7 @@ point at for their details.
 
 ## [AFK Shipwrecks](https://github.com/Brettgod1355/AFK-Shipwrecks)
 
-[![AFK Shipwrecks installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27cargo-hold-alert%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
+[![AFK Shipwrecks installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Fbadges.json&query=%24.counts%5B%27cargo-hold-alert%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
 
 An all-in-one salvaging plugin, whether you're fully AFK or working the hooks yourself.
 
@@ -36,7 +36,7 @@ An all-in-one salvaging plugin, whether you're fully AFK or working the hooks yo
 
 ## [Sidebar Favorites](https://github.com/Brettgod1355/Sidebar-Favorites)
 
-[![Sidebar Favorites installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Flatest.json&query=%24.counts%5B%27sidebar-favorites%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
+[![Sidebar Favorites installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbrettgod1355.github.io%2Fhub-installs%2Fdata%2Fbadges.json&query=%24.counts%5B%27sidebar-favorites%27%5D&label=installs&color=dc8a00)](https://brettgod1355.github.io/hub-installs/)
 
 Your favorite panels. Your order. Your shortcuts.
 
